@@ -1,4 +1,5 @@
 - aperture mask
+- pinhole
 - collimator
 - filter wheel
 - camera optics
